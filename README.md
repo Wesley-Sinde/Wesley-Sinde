@@ -6,7 +6,7 @@
 
 <p align="center"> 
   <a href="https://wesley.io.ke/" target="blank">
-  <img align="center" src="https://wesley.io.ke/Myimages/mypromo1.png" alt="Wesley" height="220"/>
+  <img align="center" src="https://wesley.io.ke/Myimages/mypromo1.jpg" alt="Wesley" height="220"/>
   </a>
 </p>
 
