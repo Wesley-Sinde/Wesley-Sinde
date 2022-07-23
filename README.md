@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wesley Sinde</h1>
-<h3 align="center">A passionate full stacks web developer from Nairobi, Kenya. I am a full-time Laravel developer.</h3>
+<h3 align="center">From Nairobi, Kenya, I am a dedicated full-stack web developer. I work as a Laravel developer full-time.</h3>
 
 
 
