@@ -11,7 +11,7 @@
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7D500&center=true&lines=HELLO+THERE!;I+SPECIALIZE+IN+WEB+DEVELOPMENT%2C;SOFTWARE+TESTING%2C+AND+DEVOPS.;I'M+INTERESTED+IN+WEB+DEVELOPMENT+AND+MACHINE+LEARNING;I+ENJOY+PLAYING+GAMES+AND+PLAYING+VOLLEYBALL+%3A%2529)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=21&color=F7D500&center=true&width=470&lines=HELLO+THERE!;I+SPECIALIZE+IN+WEB+DEVELOPMENT%2C;SOFTWARE+TESTING%2C+AND+DEVOPS.;I'M+INTERESTED+IN+WEB+DEVELOPMENT+;AND+MACHINE+LEARNING;I+ENJOY+PLAYING+GAMES+AND;+PLAYING+VOLLEYBALL+.)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesley-sinde&label=Profile%20views&color=0e75b6&style=flat" alt="wesley-sinde" /> </p>
 
