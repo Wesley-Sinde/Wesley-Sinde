@@ -4,12 +4,14 @@
 
 
 
+
 <p align="center"> 
   <a href="https://wesley.io.ke/" target="blank">
   <img align="center" src="https://wesley.io.ke/Myimages/mypromo1.jpg" alt="Wesley" height="220"/>
   </a>
 </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=tokyonight&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;+I+SPECIALIZE+IN+WEB+DEVELOPMENT,;SOFTWARE+TESTING,+AND+DEVOPS.;I'M+INTERESTED+IN+WEB+DEVELOPMENT+AND+MACHINE+LEARNING;I+ENJOY+PLAYING+GAMES+AND+PLAYING+VOLLEYBALL+:%29)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7D500&center=true&lines=HELLO+THERE!;I+SPECIALIZE+IN+WEB+DEVELOPMENT%2C;SOFTWARE+TESTING%2C+AND+DEVOPS.;I'M+INTERESTED+IN+WEB+DEVELOPMENT+AND+MACHINE+LEARNING;I+ENJOY+PLAYING+GAMES+AND+PLAYING+VOLLEYBALL+%3A%2529)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesley-sinde&label=Profile%20views&color=0e75b6&style=flat" alt="wesley-sinde" /> </p>
 
