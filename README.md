@@ -7,7 +7,7 @@
 
 <p align="center"> 
   <a href="https://wesley.io.ke/" target="blank">
-  <img align="center" src="https://wesley.io.ke/Myimages/mypromo1.jpg" alt="Wesley" height="220"/>
+  <img align="center" src="https://github.com/Wesley-Sinde/Social-networking-application-in-laravel-for-members-of-neighborhood-Nextdoo-clone-/blob/master/New%20Project.gif?raw=true" alt="Wesley" height="220"/>
   </a>
 </p>
 
@@ -16,6 +16,35 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesley-sinde&label=Profile%20views&color=0e75b6&style=flat" alt="wesley-sinde" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wesley-sinde" alt="wesley-sinde" /></a> </p>
+
+
+
+<!-- START NEW SECTION -->
+<p align="center">
+ <h2 align="center">My Github Stats</h2>
+
+| My github statistics                                                                                                                                                  | My languages                                                                                                                                                                         | Streaks                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| [![Peace's github stats](https://github-readme-stats.vercel.app/api?username=wesley-sinde&show_icons=true&theme=dark&hide_title=true)](https://github.com/wesley-sinde) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-sinde&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/wesley-sinde) | ![wesley-sinde](https://github-readme-streak-stats.herokuapp.com/?user=Wesley-Sinde&theme=dark) |
+
+<hr>
+
+<!-- START NEW SECTION -->
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{wesley-sinde}/count.svg" /></p> 
+<br></div>
+
+<p align="center">
+
+ <img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+
+</p>
+<hr>
+
+<!-- START NEW SECTION -->
+
+
 
 <p align="left"> <a href="https://twitter.com/sindewesley" target="blank"><img src="https://img.shields.io/twitter/follow/sindewesley?logo=twitter&style=for-the-badge" alt="sindewesley" /></a> </p>
 
@@ -36,7 +65,19 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
+<div align="center">
+ <br>
+ <p align="centre"><b> Here is a random joke that'll mark your day!</b></p> 
+ 
+![Jokes Card](https://readme-jokes.vercel.app/api) 
+ 
+<details><summary align="center"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
+</p>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/wesley-sinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wesley-sinde" height="30" width="40" /></a>
