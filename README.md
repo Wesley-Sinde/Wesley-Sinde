@@ -28,7 +28,11 @@
 | [![Peace's github stats](https://github-readme-stats.vercel.app/api?username=wesley-sinde&show_icons=true&theme=dark&hide_title=true)](https://github.com/wesley-sinde) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-sinde&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/wesley-sinde) | ![wesley-sinde](https://github-readme-streak-stats.herokuapp.com/?user=Wesley-Sinde&theme=dark) |
 
 <hr>
+<!-- START NEW SECTION -->
 
+[![Wesley's github activity](https://activity-graph.herokuapp.com/graph?username=Wesley-Sinde&theme=chartreuse-dark)](https://github.com/Wesley-Sinde/github-readme-activity-graph)
+
+<hr>
 <!-- START NEW SECTION -->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
