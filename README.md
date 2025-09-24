@@ -116,7 +116,7 @@ I'm a passionate **Full-Stack Developer** with **5+ years** of experience buildi
 </table>
 
 ### 🔥 GitHub Streak & Consistency
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wesley-sinde&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak Stats" width="600"/>
+<img src="https://github-readme-streak-stats.vercel.app/?user=wesley-sinde&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak Stats" width="600"/>
 
 ### 📊 Detailed Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wesley-sinde&custom_title=Wesley's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=ffffff&line=ff6b6b&point=ffffff&area=true&hide_border=true" alt="Wesley's GitHub Activity Graph" width="100%"/>
