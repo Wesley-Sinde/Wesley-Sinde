@@ -116,10 +116,10 @@ I'm a passionate **Full-Stack Developer** with **5+ years** of experience buildi
 </table>
 
 ### 🔥 GitHub Streak & Consistency
-<img src="https://streak-stats.demolab.com/?user=wesley-sinde&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak Stats" width="600"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wesley-sinde&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak Stats" width="600"/>
 
 ### 📊 Detailed Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wesley-sinde&custom_title=Wesley's%20Contribution%20Graph&bg_color=0d1117&color=ffffff&line=ff6b6b&point=ffffff&area=true&hide_border=true" alt="Wesley's GitHub Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wesley-sinde&custom_title=Wesley's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=ffffff&line=ff6b6b&point=ffffff&area=true&hide_border=true" alt="Wesley's GitHub Activity Graph" width="100%"/>
 
 ### 🏆 Achievement Showcase
 <img src="https://github-profile-trophy.vercel.app/?username=wesley-sinde&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
@@ -202,13 +202,12 @@ I'm a passionate **Full-Stack Developer** with **5+ years** of experience buildi
 ## 📊 Coding Activity & Metrics
 
 <div align="center">
-  
-### ⏰ Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
-### 📈 Language Usage Over Time
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=wesley-sinde&theme=radical&hide_border=true&layout=compact" alt="Wakatime Stats" width="500"/>
+### 📈 Recent Activity Summary
+<img src="https://github-readme-stats.vercel.app/api?username=wesley-sinde&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Recent%20Activity%20Overview" alt="Recent Activity" width="500"/>
+
+### 🔄 Contribution Consistency
+<img src="https://github-contributor-stats.vercel.app/api?username=wesley-sinde&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contribution Stats" width="500"/>
 
 </div>
 
@@ -239,6 +238,10 @@ I'm a passionate **Full-Stack Developer** with **5+ years** of experience buildi
 <div align="center">
   <p><strong>💡 "The best way to predict the future is to invent it." - Let's code the future together!</strong></p>
   
-  <img src="https://github.com/Wesley-Sinde/Wesley-Sinde/blob/output/snake.svg" alt="Snake animation" />
+  <details>
+    <summary>🐍 Watch my contributions get eaten by the snake!</summary>
+    <br/>
+    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  </details>
   
 </div>
