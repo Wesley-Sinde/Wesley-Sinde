@@ -47,7 +47,7 @@ const wesleySinde = {
   title:       "Software Developer & Computer Scientist",
   company:     "Founder & Lead Developer @ PrideTech",
   location:    "Nairobi (Embakasi), Kenya 🇰🇪",
-  education:   "BSc Computer Science — Graduated with Honors (2014–2018)",
+  education:   "BSc Computer Science — Graduated with Honors (2018–2022)",
   experience:  "5+ years (freelancing since 2017)",
 
   stats: {
@@ -95,7 +95,7 @@ const wesleySinde = {
 |---|---|
 | 💼 **Role** | Founder & Lead Developer @ PrideTech |
 | 📍 **Location** | Embakasi, Nairobi, Kenya |
-| 🎓 **Education** | BSc Computer Science — Honors (2014–2018) |
+| 🎓 **Education** | BSc Computer Science — Honors (2018–2022) |
 | ⏱️ **Experience** | 5+ years · Freelancing since 2017 |
 | 📦 **Projects** | 50+ completed across 9+ industries |
 | 😊 **Clients** | 40+ satisfied across East Africa |
@@ -292,7 +292,7 @@ const wesleySinde = {
 
 ### 🏫 Formal Education
 
-**Bachelor of Science in Computer Science** *(2014 – 2018)*
+**Bachelor of Science in Computer Science** *(2018 – 2022)*
 - 🏆 **Graduated with Honors**
 - 🔬 Specialization: Software Engineering & Systems Development
 - 📋 Capstone Project: Enterprise Resource Planning (ERP) System
@@ -489,13 +489,14 @@ const wesleySinde = {
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wesley-sinde&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)](https://github.com/Wesley-Sinde)&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-sinde&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/Wesley-Sinde)
 
 ### 🔥 Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=wesley-sinde&theme=tokyonight&hide_border=true&background=1a1b27&stroke=c084fc&ring=c084fc&fire=ff6b6b&currStreakLabel=c084fc&sideLabels=a78bfa&dates=a78bfa)](https://github.com/Wesley-Sinde)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wesley-sinde&theme=tokyonight&hide_border=true&background=1a1b27&stroke=c084fc&ring=c084fc&fire=ff6b6b&currStreakLabel=c084fc&sideLabels=a78bfa&dates=a78bfa)](https://github.com/wesley-sinde)
 
 ### 📈 Contribution Activity Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wesley-sinde&custom_title=Wesley%27s%20GitHub%20Contribution%20Graph&bg_color=1a1b27&color=c084fc&line=7c3aed&point=ff6b6b&area=true&area_color=7c3aed&hide_border=true)](https://github.com/Wesley-Sinde)
 
-### 🏆 GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=wesley-sinde&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6)](https://github.com/Wesley-Sinde)
+### 🏆 Achievements
+<!-- Self-hosted static trophy strip — replaces the unreliable github-profile-trophy.vercel.app service (frequently returns 402/419 errors due to upstream hosting/cost issues). This version is a static SVG committed to this repo (raw.githubusercontent.com), so it never breaks. -->
+![Trophies](https://raw.githubusercontent.com/wesley-sinde/wesley-sinde/main/trophies.svg)
 
 ### 📋 Profile Summary
 [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wesley-sinde&theme=tokyonight)](https://github.com/Wesley-Sinde)
@@ -535,11 +536,7 @@ const wesleySinde = {
 ### 🗓️ Career Timeline
 
 ```
-2014 ────── BSc Computer Science begins
-              │
-2017 ────── Starts freelancing | Begins building WorkWave (ships 2017–2022)
-              │
-2018 ────── Graduates with Honors (BSc Computer Science)
+2018 ────── BSc Computer Science begins
               │
 2020 ────── Mediheal Group of Hospitals — Tech Support (Eldoret)
             Agile & Scrum Master Certification ✅
@@ -547,7 +544,8 @@ const wesleySinde = {
 2021 ────── deepAfrica — Graphic Designer (Thika)
             Mobile App Dev Certification ✅ (Udacity/Coursera)
               │
-2022 ────── Head of ICT @ Topmax Training College
+2022 ────── Graduates with Honors (BSc Computer Science)
+            Head of ICT @ Topmax Training College
             Full Stack Web Dev Certification ✅
             Builds Student Portal with Laravel
               │
@@ -558,6 +556,9 @@ const wesleySinde = {
             50+ projects | 40+ clients | 98% satisfaction
               │
 Present ─── Building East Africa's tech future 🌍
+
+(Freelancing has run continuously alongside the above since 2017,
+ including building WorkWave from 2017–2022.)
 ```
 
 ---
